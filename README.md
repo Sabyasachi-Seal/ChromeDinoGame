@@ -17,6 +17,8 @@
         <br>
         Press up arrow(or space bar) to jump.
         <br>
+        Press the down arrow to duck.
+        <br>
         Just keep doing this whenever needed.
     <hr>
     <h3>Original Package by <a href="https://github.com/wayou/t-rex-runner" target="_blank">wayou</a></h3>
