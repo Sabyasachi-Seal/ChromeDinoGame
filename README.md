@@ -4,5 +4,8 @@
     <br><br>
     <img align="center" src="./assets/screenshot.gif" alt="Screenshot of the game" />
     <br><br>
+    <h2>Wanna Try it out? Click the button below!</h2>
+    <a href="https://sabyasachi-seal.github.io/ChromeDinoGame"><img src="./assets/default_100_percent/100-error-offline.png"/></a>
+    <br><br>
     <h2>Original Package by <a href="https://github.com/wayou/t-rex-runner">wayou</a></h2>
 </div>
